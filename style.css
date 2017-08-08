@@ -4,6 +4,10 @@ body {
 	font-weight: 400;
 }
 
+img {
+  max-width: 100%;
+}
+
 .container {
 	width: 80%;
 	margin: 0 auto;
